@@ -32,7 +32,7 @@ function Home() {
 
 <p className="heading-description blockquote">
 I’m a self-motivated professional with <span className="purple"> 
-3 years of experience</span> specializing in BackendDevelopment with <span className="purple">Laravel Framework.</span>  
+3 years of experience</span> specializing in Backend Developer with <span className="purple">Laravel Framework.</span>  
 I’m proficient in PHP and comfortable with few other programming languages and systems. I’m a fast learner, a team player, and strongly believe inaccuracy and precision in everything I do.
 </p>
             </Col>
